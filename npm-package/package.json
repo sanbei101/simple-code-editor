@@ -1,5 +1,5 @@
 {
-	"name": "vue-code-editor",
+	"name": "@sanbei101/vue-code-editor",
 	"version": "2.0.10",
 	"description": "Simple code editor for Vue.js",
 	"main": "CodeEditor.vue",
